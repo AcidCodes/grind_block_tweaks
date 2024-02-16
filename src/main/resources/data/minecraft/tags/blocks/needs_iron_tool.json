@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "grind_block_tweaks:allthemodium_forge_casing",
+    "grind_block_tweaks:the_grind_block",
+    "grind_block_tweaks:vibranium_forge_casing",
+    "grind_block_tweaks:unobtainium_forge_casing"
+  ]
+}

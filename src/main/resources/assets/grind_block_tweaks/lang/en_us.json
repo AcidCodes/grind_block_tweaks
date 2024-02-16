@@ -1,0 +1,40 @@
+{
+  "item.grind_block_tweaks.insanium_egg": "Insanium Egg",
+  "item.grind_block_tweaks.machinium_ingot": "Machinium Ingot",
+  "item.grind_block_tweaks.multium_ingot": "Multium Ingot",
+  "item.grind_block_tweaks.liquid_enchant_bucket": "Bucket of Liquid Enchant",
+  "item.grind_block_tweaks.liquid_source_bucket": "Bucket of Liquid Source",
+  "item.grind_block_tweaks.liquid_calculation_bucket": "Bucket of Liquid Calculation Processor",
+  "item.grind_block_tweaks.liquid_engineering_bucket": "Bucket of Liquid Engineering Processor",
+  "item.grind_block_tweaks.liquid_logic_bucket": "Bucket of Liquid Logic Processor",
+  "item.grind_block_tweaks.liquid_parallel_bucket": "Bucket of Liquid Parallel Processor",
+  "item.grind_block_tweaks.liquified_mana_diamond_bucket": "Bucket of Liquified Mana Diamond",
+  "item.grind_block_tweaks.liquified_dragonstone_bucket": "Bucket of Liquified Dragonstone",
+  "item.grind_block_tweaks.liquifacted_mana_pearl_bucket": "Bucket of Liquifacted Mana Pearl",
+  "item.grind_block_tweaks.liquifacted_pixie_dust_bucket": "Bucket of Liquifacted Pixie Dust",
+  "item.grind_block_tweaks.chaos_guardian_deleter": "Chaos Guardian Deleter",
+  "item.grind_block_tweaks.flask_of_infinity": "Flask of Infinity",
+  "item.grind_block_tweaks.ultimate_components": "Ultimate Integral Components",
+  "item.grind_block_tweaks.ultimate_machine_speed_augment": "Ultimate Flux Linkage Amplifier",
+
+  "block.grind_block_tweaks.the_grind_block": "The Grind Block",
+  "block.grind_block_tweaks.allthemodium_forge_casing": "Allthemodium Forge Casing",
+  "block.grind_block_tweaks.unobtainium_forge_casing": "Unobtainium Forge Casing",
+  "block.grind_block_tweaks.vibranium_forge_casing": "Vibranium Forge Casing",
+
+  "fluid.grind_block_tweaks.liquid_enchant": "Liquid Enchant",
+  "fluid.grind_block_tweaks.liquid_source": "Liquid Source",
+  "fluid.grind_block_tweaks.liquid_calculation": "Liquid Calculation Processor",
+  "fluid.grind_block_tweaks.liquid_engineering": "Liquid Engineering Processor",
+  "fluid.grind_block_tweaks.liquid_logic": "Liquid Logic Processor",
+  "fluid.grind_block_tweaks.liquid_parallel": "Liquid Parallel Processor",
+  "fluid.grind_block_tweaks.liquified_mana_diamond": "Liquified Mana Diamond",
+  "fluid.grind_block_tweaks.liquified_dragonstone": "Liquified Dragonstone",
+  "fluid.grind_block_tweaks.liquifacted_mana_pearl": "Liquifacted Mana Pearl",
+  "fluid.grind_block_tweaks.liquifacted_pixie_dust": "Liquifacted Pixie Dust",
+
+  "tooltip.grind_block_tweaks.chaos_guardian_deleter": "§6§lInsta-Kills the Chaos Guardian!",
+  "grind_block_tweaks.augment.upgrade": "Improves base attributes. Other augments may be more effective as a result.",
+
+  "itemGroup.gbt_tab": "Grind Block Tweaks"
+}

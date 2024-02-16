@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "grind_block_tweaks:item/chaos_guardian_deleter"
+  }
+}

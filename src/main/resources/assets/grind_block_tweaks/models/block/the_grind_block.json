@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "grind_block_tweaks:block/the_grind_block",
+    "particle": "grind_block_tweaks:block/the_grind_block"
+  }
+}
